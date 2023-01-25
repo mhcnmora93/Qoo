@@ -9,9 +9,9 @@
     "reword":"IMG_16_9_APP_INSTALL#YOUR_PLACEMENT_ID"},
     
     "applovin": {
-    "banner":"",
-    "inter":"",
-    "nativ":"",
-    "reword":""}
+    "banner":"3e40aec0d5af7e98",
+    "inter":"3e501e5aa502041c",
+    "nativ":"00382acda5fe96c1",
+    "reword":"13b1d45025bdb8b8"}
       
     }
